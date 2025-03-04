@@ -21,14 +21,3 @@ seaborn==0.13.1
 statsmodels==0.14.3
 tqdm==4.66.5
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz#sha256=e86f433b6968bdd1e17b9e4cf8e0b4f105b3f6a409ffcd410336d06853a81096
-
-
-
-
-Portfolio Optimization
-
-numpy==1.23.5
-pandas==2.0.2
-matplotlib==3.8.0
-pymoo==0.5.0
-pandas_datareader==0.10.0
